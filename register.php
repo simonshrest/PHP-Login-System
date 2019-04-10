@@ -25,7 +25,7 @@ require_once'inc/config.php';
 
       <div class="uk-section uk-container">
           <h1>Register</h1>
-        <div class="uk-grid uk-child-width-1-3@s uk-child-width-1-1" uk-grid="">
+        <div class="uk-grid uk-child-width-1-3@s uk-child-width-1-1" uk-grid>
 
 
           <form class="uk-form-stacked">
